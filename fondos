@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Fondos</title>
+    <link rel="stylesheet" href="style copy.css"> 
+    <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_del_Sacachispas_F%C3%BAtbol_Club.svg/1280px-Logo_del_Sacachispas_F%C3%BAtbol_Club.svg.png" type="image/png">
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale= 1.0" >
+     <meta name="keywords" content="asenso,primera C, sacachispas">
+     <meta name="author" content="Nahuel Vega">
+     <meta name="robots" content="">
+     <meta mame="title" content="Futbol Club SA">
+     <meta name="og:title" content="">
+     <meta name="og:image" content="">
+     <meta name="og:description" content="">
+</head>
+<!----> Este es el cuerpo de la pagina
+
+<body>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius doloribus adipisci fugiat dicta tempora asperiores sint voluptas mollitia perspiciatis quisquam, excepturi fugit quibusdam consequatur autem natus, officia iusto provident alias.
+
+    <div class="box">
+    <DIV class="OPACO">
+        <h2> GOAT</h2>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_del_Sacachispas_F%C3%BAtbol_Club.svg/1280px-Logo_del_Sacachispas_F%C3%BAtbol_Club.svg.png">
+    </DIV>
+
+    </div>
+<form>
+    <h3>
+        Formulario de contacto
+    </h3>
+    <div class="form_input">
+        <label> Nombre completo</label> 
+<input type="text" placeholder="Nombre completo">
+        
+    </div>
+    <div class="form_input">
+        <label> Email</label> 
+        <input  type="email" placeholder="Email" required>
+    </div>
+    <div>
+        <label>Mensaje </label> 
+        <textarea maxlength="140" placeholder=" tu mensaje"></textarea>
+    </div>
+</form>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum perferendis, similique voluptate sint optio cum voluptatibus minima consequatur repudiandae quidem iusto. Libero tempora dolor velit, dolorum incidunt placeat quasi dicta.
+</body>
+</html> 
